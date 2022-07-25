@@ -9,3 +9,8 @@ Reflection &amp; Annotation (course "Java Enterprise", it-academy.by, Minsk, sta
 
 <b>Task 71</b>
 <p>Create a class with a printHelloWorld() method. Call a method using reflection from the main program.</p>
+
+<b>Task 72</b>
+<p>Create your own @AcademyInfo annotation with year field.</p>
+<p>Create a method marked with this annotation with the given year and a method without it.</p>
+<p>Using reflection, check the presence of this annotation for these methods from the main program.</p>
